@@ -1,2 +1,0 @@
-# DEV-C
-C-dev
